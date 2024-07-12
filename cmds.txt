@@ -2,3 +2,16 @@
 
 -- some of the linux cmds we use in day to day life in devops
 
+pwd - present working directory
+cd - change the directory
+mkdir - create a directory
+ls - list all the items present in that directory
+cd - change the directory
+ls -ltr - list all files / folders with timestamps etc
+touch - create a new files
+cat - print the info present in that file
+rm -  remove files
+rm - r : remove directory
+free - g: amount of memory used 
+nproc : np of cpu's
+df - h: overall disk size
