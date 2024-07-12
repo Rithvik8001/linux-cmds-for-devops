@@ -1,0 +1,4 @@
+
+
+-- some of the linux cmds we use in day to day life in devops
+
