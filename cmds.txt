@@ -15,3 +15,14 @@ rm - r : remove directory
 free - g: amount of memory used 
 nproc : np of cpu's
 df - h: overall disk size
+cp: copy a file 
+mv: move a file or folder to another directory syn: mv files.txt Documents
+head: shows first few lines in the file
+tail: displays last 10lines
+diff: compares two files line by line and outputs the data which is not matched
+locate: locates the file
+chmod: change the permissions of a file 
+        i.e: read(r), write(w), execute(e)
+chown: change the owner of a file 
+grep: to search for things written inside a file
+top: basically displays the activity monitor
